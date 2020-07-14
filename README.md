@@ -2,7 +2,7 @@
 
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/rslewenstein)](https://github.com/rslewenstein)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rafael-soares-lewenstein/)](https://www.linkedin.com/in/rafael-soares-lewenstein/)
-[![YouTube Badge](https://img.shields.io/badge/youtube-%23FF0000.svg?&style=flat-square&logo=youtube&logoColor=white&link=https://youtube.com/c/RafaelSoaresLew)](https://youtube.com/c/RafaelSoaresLew)
+[![YouTube Badge](https://img.shields.io/badge/YouTube-%23FF0000.svg?&style=flat-square&logo=youtube&logoColor=white&link=https://youtube.com/c/RafaelSoaresLew)](https://youtube.com/c/RafaelSoaresLew)
 
 ## Hi everyone!
 ### This is my Github! (Sorry for my english - 🤗)
