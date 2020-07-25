@@ -10,7 +10,6 @@
 - ⭐ I'm Rafael. 
 - 💻 I am dotnet(dotnet Core) Developer.
 - 💻 I am Fullstack / Backend developer. 
-- 📚 I'm studying Machine Learning.
 
 So, I'm always learning something. 
 I have been working with IT since 2011, I started as a support. Since 2017 I am a programmer (or try to be).
