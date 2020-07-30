@@ -4,18 +4,20 @@
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rafael-soares-lewenstein/)](https://www.linkedin.com/in/rafael-soares-lewenstein/)
 [![YouTube Badge](https://img.shields.io/badge/YouTube-%23FF0000.svg?&style=flat-square&logo=youtube&logoColor=white&link=https://youtube.com/c/RafaelSoaresLew)](https://youtube.com/c/RafaelSoaresLew)
 
-## Hi everyone!
-### This is my Github! (Sorry for my english - 🤗)
+## Olá pessoal!
+### Este é o meu GitHub! 🤗
 
-- ⭐ I'm Rafael. 
-- 💻 I am dotnet(dotnet Core) Developer.
-- 💻 I am Fullstack / Backend developer. 
+- ⭐ Eu sou o Rafael. 
+- 💻 Trabalho como desenvolvedor de Software.
+- 💻 Eu sou um desenvolvedor Fullstack / Backend.
+- 💻 A minha experiência de trabalho é no .Net(C#, VB, ASP) / .Net Core,
+além do SQL, Algumas linguagens de frontend, entre outras ferramentas.
 
-So, I'm always learning something. 
-I have been working with IT since 2011, I started as a support. Since 2017 I am a programmer (or try to be).
-Lately I'm trying to commit more to my github.
+Sempre procuro estudar e me manter atualizado. 
+Eu tenho experiência em Ti desde 2011, quando comecei como estagiário em Técnico de Informática.
+Já trabalhei com infra e com um pouco de redes. Entrei de vez para a programação em 2017, onde estou seguindo minha carreira.
 
-# Statistics
+# Estatísticas
 <center>
 <table>
     <tr>
