@@ -14,3 +14,13 @@
 So, I'm always learning something. 
 I have been working with IT since 2011, I started as a support. Since 2017 I am a programmer (or try to be).
 Lately I'm trying to commit more to my github.
+
+# Statistics
+<center>
+<table>
+    <tr>
+        <td><img width="400px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rslewenstein&hide=html&layout=compact&theme=cobalt" /></td>
+        <td><img width="400px" align="left" src="https://github-readme-stats.vercel.app/api?username=rslewenstein&theme=cobalt" /></td>
+    </tr>
+</table>
+</center>
