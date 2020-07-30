@@ -8,14 +8,8 @@
 ### Este é o meu GitHub! 🤗
 
 - ⭐ Eu sou o Rafael. 
-- 💻 Trabalho como desenvolvedor de Software.
+- 💻 Trabalho como desenvolvedor de Software .Net(C#, VB, ASP) / .Net Core,.
 - 💻 Eu sou um desenvolvedor Fullstack / Backend.
-- 💻 A minha experiência de trabalho é no .Net(C#, VB, ASP) / .Net Core,
-além do SQL, Algumas linguagens de frontend, entre outras ferramentas.
-
-Sempre procuro estudar e me manter atualizado. 
-Eu tenho experiência em Ti desde 2011, quando comecei como estagiário em Técnico de Informática.
-Já trabalhei com infra e com um pouco de redes. Entrei de vez para a programação em 2017, onde estou seguindo minha carreira.
 
 # Estatísticas
 <center>
