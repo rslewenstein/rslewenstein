@@ -17,7 +17,7 @@
 ## Hey everyone!
 ### This is my GitHub! 🤗
 
-- I'm Rafael.
+- ⭐ I'm Rafael.
 - 💻 I Work as a Dotnet Software developer (C#, VB, ASP) / Dotnet Core.
 - 💻 I am a Fullstack / Back-end developer.
 
