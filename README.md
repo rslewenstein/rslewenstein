@@ -14,7 +14,7 @@
 - 👨‍💻 I have 9 years of experience in IT.
 - 💻 I am a Fullstack / Back-end developer.
 
-# Estatísticas
+# Statistics
 <center>
 <table>
     <tr>
