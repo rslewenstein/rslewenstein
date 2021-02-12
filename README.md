@@ -10,8 +10,8 @@
 
 - ⭐ I'm Rafael.
 - 💻 I Work as a Dotnet Software developer (C#, VB, ASP) / Dotnet Core.
-- 👨‍💻 I have > 3 years of experience in .Net development.
-- 👨‍💻 I have > 9 years of experience in IT.
+- 👨‍💻 I have 4 years of experience in .Net development.
+- 👨‍💻 I have 10 years of experience in IT.
 - 💻 I am a Fullstack / Back-end developer.
 
 # Statistics
