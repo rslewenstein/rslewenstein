@@ -14,7 +14,7 @@
 - 👨‍💻 I have 10 years of experience in IT.
 - 👨‍💻 In my free time, I like to learn other technologies.
 - 🎮 I like games.
-- ✈️ 👨🏽‍✈️ I'm virtual pilot!! (X-Plane11)
+- ✈️ 👨🏽‍✈️ I'm virtual pilot!! (X-Plane 11)
 
 # Statistics
 <center>
