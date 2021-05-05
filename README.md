@@ -15,6 +15,7 @@
 - 👨‍💻 In my free time, I like to learn other technologies.
 - 🎮 I like to play games. 
 - ✈️ 👨🏽‍✈️ I'm virtual pilot!! (X-Plane 11).
+- 📚 I study English(B2) and France(A1).
 
 <center>
 <table>
