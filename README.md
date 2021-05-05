@@ -13,7 +13,7 @@
 - 👨‍💻 I have 4 years of experience in .Net development.
 - 👨‍💻 I have 10 years of experience in IT.
 - 👨‍💻 In my free time, I like to learn other technologies.
-- 🎮 I like games.
+- 🎮 I like to play games. 
 - ✈️ 👨🏽‍✈️ I'm virtual pilot!! (X-Plane 11).
 
 <center>
