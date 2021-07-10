@@ -9,10 +9,10 @@
 ### This is my GitHub! 🤗 Welcome!!!
 
 - ⭐ I'm Rafael.
-- 💻 I am a Fullstack / Back-end developer, using dotnet / dotnet core.
 - 👨‍💻 I have 4 years of experience in .Net development.
 - 👨‍💻 I have 10 years of experience in IT.
-- 👨‍💻 In my free time, I like to learn other technologies.
+- 💻 I'm a Back-end developer. I've working with dotnet / dotnet core.
+- 💻 I'm currently learning about GoLang and Node.js
 - 🎮 I like to play games. 
 
 <center>
