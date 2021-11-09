@@ -14,7 +14,6 @@
 - 💻 I'm a Back-end developer. I've been working with dotnet / dotnet core.
 - 💻 I've learning about GoLang and Node.js
 - 🎮 I like to play games.
-- ✉ rafasoaresjf@gmail.com
 
 <center>
 <table>
