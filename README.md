@@ -12,8 +12,9 @@
 - 👨‍💻 I have + 4 years of experience in .Net development.
 - 👨‍💻 I have + 10 years of experience in IT.
 - 💻 I'm a Back-end developer. I've been working with dotnet / dotnet core.
-- 💻 I'm currently learning about GoLang and Node.js
+- 💻 I've learning about GoLang and Node.js
 - 🎮 I like to play games.
+- ✉ rafasoaresjf@gmail.com
 
 <center>
 <table>
