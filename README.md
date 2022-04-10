@@ -11,8 +11,7 @@
 - ⭐ I'm Rafael.
 - 👨‍💻 I have + 5 years of experience in .Net development.
 - 👨‍💻 I have + 11 years of experience in IT.
-- 💻 I'm a Back-end developer. I've been working as Software Engineer.
-- 💻 I've learning about GoLang.
+- 💻 I'm a Back-end developer. I've been working as Backend Software Engineer(Golang).
 - 🎮 I like to play games.
 
 <center>
