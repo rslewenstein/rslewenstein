@@ -13,6 +13,7 @@
 - 👨‍💻 I have + 11 years of experience in IT.
 - 💻 I'm a Back-end developer. I've been working as Backend Software Engineer.
 - 🎮 I like to play games.
+- 📚 I've been studing about Golang, Kubernetes, AWS and Kafka.
 
 <center>
 <table>
