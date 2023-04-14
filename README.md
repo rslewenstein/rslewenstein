@@ -9,11 +9,11 @@
 ### This is my GitHub! 🤗 Welcome!!!
 
 - ⭐ I'm Rafael.
-- 👨‍💻 I have + 5 years of experience using .Net/.Netcore(C#).
-- 👨‍💻 I have + 11 years of experience in IT.
+- 👨‍💻 I have + 6 years of experience using .Net/.Netcore(C#).
+- 👨‍💻 I have + 12 years of experience in IT.
 - 💻 I'm a Back-end developer. I've been working as Backend Software Engineer.
 - 🎮 I like to play games.
-- 📚 I've been studing about Golang, Kubernetes, AWS and Kafka.
+- 📚 I've been studing about Kubernetes, AWS and Kafka.
 
 <center>
 <table>
