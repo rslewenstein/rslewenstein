@@ -13,7 +13,7 @@
 - 👨‍💻 I have + 13 years of experience in IT.
 - 💻 I'm a Back-end developer. I've been working as Backend Software Engineer.
 - 🎮 I like to play games.
-- 📚 I've been studing about Containers, Clouds and DevOps.
+- 📚 I've been studing about Containers, Clouds, Microservices and DevOps culture.
 
 <center>
 <table>
