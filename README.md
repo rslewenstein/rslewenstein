@@ -9,9 +9,8 @@
 ### This is my GitHub! 🤗 Welcome!!!
 
 - ⭐ I'm Rafael.
-- 👨‍💻 I have + 8 years of experience using C# (.Net and .Net Core).
+- 👨‍💻 I have + 8 as a developer.
 - 👨‍💻 I have + 14 years of experience in IT.
-- 💻 I'm a Back-end developer. I've been working as Backend Software Engineer.
 - 💻 I've been working in companies that use DevOps culture.
 - 🎮 I like to play games.
 - 📚 I've been studing about Containers, Clouds, Microservices and DevOps culture.
@@ -25,3 +24,4 @@
     </tr>   
 </table>
 </center>
+
