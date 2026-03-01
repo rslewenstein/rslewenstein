@@ -11,8 +11,8 @@
 ### Welcome to my GitHub! 🤗
 
 - ⭐ I'm **Rafael Soares**.  
-- 👨‍💻 I have **8+ years as a developer**.  
-- 💾 Over **14 years of experience in IT**.  
+- 👨‍💻 I have **9+ years as a developer**.  
+- 💾 Over **15 years of experience in IT**.  
 - 💻 Experienced working in companies that embrace **DevOps culture**.  
 - ☁️ Currently studying **Containers, Cloud, Microservices** and **DevOps**.  
 - 🎮 I like to play games.  
@@ -51,4 +51,5 @@
 <p align="center">
   <i>"Continuous learning is the fuel of evolution."</i> 🚀
 </p>
+
 
