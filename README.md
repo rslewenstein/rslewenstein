@@ -1,4 +1,4 @@
-# Rafa Soares 💻
+# Rafael Soares 💻
 
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/rslewenstein)](https://github.com/rslewenstein)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rafael-soares-lewenstein/?locale=en_US)](https://www.linkedin.com/in/rafael-soares-lewenstein/?locale=en_US)
@@ -51,5 +51,6 @@
 <p align="center">
   <i>"Continuous learning is the fuel of evolution."</i> 🚀
 </p>
+
 
 
