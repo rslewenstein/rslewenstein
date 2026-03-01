@@ -20,35 +20,35 @@
 
 ---
 
-## ⚙️ Languages & Tools
+## 🧰 Tech Stack
 
 <p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="45" height="45" alt="C#" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" width="45" height="45" alt=".NET" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-original.svg" width="45" height="45" alt="Ruby" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rails/rails-original-wordmark.svg" width="45" height="45" alt="Rails" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" width="45" height="45" alt="Go" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="45" height="45" alt="TypeScript" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="45" height="45" alt="SQL" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" width="45" height="45" alt="Shell Script" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="45" height="45" alt="Docker" />
+<img src="https://skillicons.dev/icons?i=cs,dotnet,ruby,rails,go,ts,mysql,docker,bash" />
 </p>
 
 ---
 
-## 📊 GitHub Stats
+## 📊 Stats & Activity
 
-<center>
-<table>
-  <tr>
-    <td><img width="400px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rslewenstein&hide=html&layout=compact&theme=dracula" /></td>
-    <td><img width="495px" src="https://github-readme-stats.vercel.app/api?username=rslewenstein&show_icons=true&theme=dracula&count_private=true" /></td>
-  </tr>
-</table>
-</center>
+<p align="center">
+<img src="https://streak-stats.demolab.com?user=rslewenstein&theme=dracula" />
+<br><br>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=rslewenstein&theme=dracula"/>
+</p>
+
+---
+
+## 🎯 Current Focus
+
+* Cloud Architecture
+* Infrastructure as Code
+* Kubernetes
+* CI/CD Pipelines
+* Distributed Systems
 
 ---
 
 <p align="center">
   <i>"Continuous learning is the fuel of evolution."</i> 🚀
 </p>
+
